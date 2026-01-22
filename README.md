@@ -16,7 +16,7 @@ Using quantitative modeling and CPI datasets, this study identifies critical "St
 
 ### Technical Implementation
 
-
+- Data Synthesis & Auditing: Microsoft Excel. Used for raw PBS/SBP datasets and calculating cumulative decay metrics.
 - Data Processing: Python (Pandas).
 
 
