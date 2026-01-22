@@ -8,19 +8,19 @@ Using quantitative modeling and CPI datasets, this study identifies critical "St
 ### ​Key Quantitative Findings
 
 
-​- Utility Decay: A 64.06% reduction in real-world purchasing power since the 2016 benchmark.
+​-  Utility Decay: A 64.06% reduction in real-world purchasing power since the 2016 benchmark.
 
 
-​- Phase III Shock: Analyzed the "Sudden Fall" and critical collapse occurring between Jan 2023 and Feb 2024.
+​-  Phase III Shock: Analyzed the "Sudden Fall" and critical collapse occurring between Jan 2023 and Feb 2024.
 
 
 ### Technical Implementation
 
 
-​- Data Processing: Python (Pandas).
+​-  Data Processing: Python (Pandas).
 
 
-​- Visualization: High-fidelity data mapping using Matplotlib and Seaborn.
+​-  Visualization: High-fidelity data mapping using Matplotlib and Seaborn.
 
 
-- ​Forensic Modeling: 120-month longitudinal decay tracking.
+-  ​Forensic Modeling: 120-month longitudinal decay tracking.
