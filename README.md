@@ -17,10 +17,10 @@ Using quantitative modeling and CPI datasets, this study identifies critical "St
 ### Technical Implementation
 
 
-​-  Data Processing: Python (Pandas).
+- Data Processing: Python (Pandas).
 
 
-​-  Visualization: High-fidelity data mapping using Matplotlib and Seaborn.
+- Visualization: High-fidelity data mapping using Matplotlib and Seaborn.
 
 
 -  ​Forensic Modeling: 120-month longitudinal decay tracking.
